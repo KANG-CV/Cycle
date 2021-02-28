@@ -1,0 +1,7 @@
+写于：2020/12/02/21：55
+作者：kang
+
+项目参考视频：《小甲鱼零基础学习python》之飞机大战
+视频网址：https://www.bilibili.com/video/BV1xs411Q799?p=91
+本项目的环境：window10	||	python3.7	||	pygame2.0
+希望该源代码能帮助到你学习！！！！！
